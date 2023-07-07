@@ -58,6 +58,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or inquiries, please reach out to the developer:
 
-- GitHub: [Your GitHub Profile](https://github.com/your-github-profile)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
+- GitHub: [Your GitHub Profile](https://github.com/cxxrupt)
+
