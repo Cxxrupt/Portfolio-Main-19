@@ -14,8 +14,7 @@ This is a single-page application portfolio for a web developer. It showcases th
 
 ## Description
 
-The portfolio is built using React, leveraging the React Router for navigation and routing. It includes different sections such as About Me, Portfolio, Contact Me, and Resume. Each section is rendered on a separate page without page reloading.
-
+The portfolio is built using React, leveraging the React Router for navigation and routing. It includes different sections such as About Me, Portfolio, Contact Me, and Resume. Each section is rendered on a single page but i'm working on getting it on react-router.
 ## Technologies
 
 The following technologies were used in the development of this portfolio:
